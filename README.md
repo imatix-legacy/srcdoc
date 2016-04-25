@@ -4,7 +4,7 @@
 
 It is written in Perl v4, and implemented using a state machine, for 
 which the implementation (in `srcdoc.d`) is built using `libero` to 
-process the state machine source (in `srcdoc.l`); `framer.fmt` was 
+process the state machine source (in `srcdoc.l`); `srcdoc.fmt` was 
 written by hand to support the various `srcdoc` actions referenced
 by the state machine.
 

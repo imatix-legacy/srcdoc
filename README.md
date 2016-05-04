@@ -17,3 +17,8 @@ for ease of reference.
 
 Released under the GNU GPL v2, a copy of which can be found in 
 [COPYING](COPYING).
+
+On [2016-04-29 it was also released under the
+MPLv2](https://github.com/imatix-legacy/license) ([license
+text](https://imatix-legacy.github.io/license/MPLv2.html)), so
+`srcdoc` can be used under either the GPLv2, or the MPLv2.
